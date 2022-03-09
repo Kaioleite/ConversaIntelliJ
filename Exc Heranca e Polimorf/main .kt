@@ -1,18 +1,22 @@
 package `Exc Heranca e Polimorf`
+import `Exc Heranca e Polimorf`.Cavalo
+import `Exc Heranca e Polimorf`.Cachorro
+import `Exc Heranca e Polimorf`.Preguica
 fun main(){
 
 val tobby = Cachorro("tobby",24)
 val epona = Cavalo("epona",5)
-val laura = Preguiça("Laura",6)
+val laura = Preguica("Laura",6)
 
     tobby.SOM()
+    tobby.corre()
     epona.SOM()
+    epona.correr()
     laura.SOM()
-
+    laura.Subir()
 
 
 }
-
 
 
 
