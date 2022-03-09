@@ -1,0 +1,1 @@
+C:\Users\WIN 10 PRO\IdeaProjects\CalculadoraT\build\classes\kotlin\main\CalculadoraClas$Companion.class;C:\Users\WIN 10 PRO\IdeaProjects\CalculadoraT\build\classes\kotlin\main\CalculadoraClas.class;C:\Users\WIN 10 PRO\IdeaProjects\CalculadoraT\build\classes\kotlin\main\CalculadoraKt.class
